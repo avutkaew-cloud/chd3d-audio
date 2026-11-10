@@ -1,0 +1,91 @@
+{
+  "lesion": "CHD_9",
+  "title": "AVSD",
+  "audioPrefix": "Topic 1",
+  "steps": [
+    {
+      "id": 1,
+      "title": "avsd_01",
+      "audioFile": "avsd01.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd01.mp3"
+    },
+    {
+      "id": 2,
+      "title": "avsd_02",
+      "audioFile": "avsd02.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd02.mp3"
+    },
+    {
+      "id": 3,
+      "title": "avsd_03",
+      "audioFile": "avsd03.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd03.mp3"
+    },
+    {
+      "id": 4,
+      "title": "avsd_04",
+      "audioFile": "avsd04.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd04.mp3"
+    },
+    {
+      "id": 5,
+      "title": "avsd_05",
+      "audioFile": "avsd05.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd05.mp3"
+    },
+    {
+      "id": 6,
+      "title": "avsd_06",
+      "audioFile": "avsd06.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd06.mp3"
+    },
+    {
+      "id": 7,
+      "title": "avsd_07",
+      "audioFile": "avsd07.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd07.mp3"
+    },
+    {
+      "id": 8,
+      "title": "avsd_08",
+      "audioFile": "avsd08.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd08.mp3"
+    },
+    {
+      "id": 9,
+      "title": "avsd_09",
+      "audioFile": "avsd09.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd09.mp3"
+    },
+    {
+      "id": 10,
+      "title": "avsd_10",
+      "audioFile": "avsd10.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd10.mp3"
+    },
+    {
+      "id": 11,
+      "title": "avsd_11",
+      "audioFile": "avsd11.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd11.mp3"
+    },
+    {
+      "id": 12,
+      "title": "avsd_12",
+      "audioFile": "avsd12.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd12.mp3"
+    },
+    {
+      "id": 13,
+      "title": "avsd_13",
+      "audioFile": "avsd13.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd13.mp3"
+    },
+    {
+      "id": 14,
+      "title": "avsd_14",
+      "audioFile": "avsd14.mp3",
+      "url": "https://avutkaew-cloud.github.io/chd3d-audio/avsd14.mp3"
+    }
+  ]
+}
